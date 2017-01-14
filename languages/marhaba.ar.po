@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: marhaba\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Abdelkarim Guettaf <gkraim@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: tfrmmain.btnclose.caption
+msgid "&Close"
+msgstr "أ&غلق"
+
+#: tfrmmain.caption
+msgid "Welcome to Waha Linux"
+msgstr "مرحبا بك في واحــة لينكس"
+
+#: tfrmmain.cbshowonstartup.caption
+msgid "Show on startup"
+msgstr "أظهِر عند بدأ التشغيل"
+
+#: tfrmmain.lblchatroom.caption
+msgid "Chat room"
+msgstr "قناة التواصل الحي"
+
+#: tfrmmain.lblcode.caption
+msgid "Code"
+msgstr "الكود البرمجي"
+
+#: tfrmmain.lblcontactus.caption
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+#: tfrmmain.lbldescription.caption
+msgid "Welcome to Waha Linux, thank you for joining our community. Waha Linux is a Debian-based Linux distribution which provides ready to use, out of the box operating system, it's suitable for people who are new to Linux."
+msgstr "مرحبا بك في واحــة لينكس، وشكرا لانضمامك إلى مجتمعنا. واحــة لينكس توزيعة مبنية على دبيان، توفر نظام تشغيل سهل جاهز للاستخدام، وهي مناسبة لمستخدمي لينكس الجدد."
+
+#: tfrmmain.lbldonate.caption
+msgid "Donate"
+msgstr "تبرع"
+
+#: tfrmmain.lblforums.caption
+msgid "Forums"
+msgstr "المنتديات"
+
+#: tfrmmain.lbltitle.caption
+msgid "Waha Linux"
+msgstr "واحــة لينكس"
+
+#: tfrmmain.lbluserguide.caption
+msgid "User Guide"
+msgstr "دليل المستخدم"
+

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Icon=marhaba
+Exec=marhaba
+Terminal=false
+Categories=GNOME;GTK;Settings;DesktopSettings;
+StartupNotify=false
+Name=Marhaba
+Name[ar_DZ]=مرحبا
+Name[en_US]=Marhaba
+Comment=Welcome screen
+Comment[ar_DZ]=شاشة الترحيب
+Comment[en_US]=Welcome screen

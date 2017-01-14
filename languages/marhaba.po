@@ -1,0 +1,47 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tfrmmain.btnclose.caption
+msgid "&Close"
+msgstr ""
+
+#: tfrmmain.caption
+msgid "Welcome to Waha Linux"
+msgstr ""
+
+#: tfrmmain.cbshowonstartup.caption
+msgid "Show on startup"
+msgstr ""
+
+#: tfrmmain.lblchatroom.caption
+msgid "Chat room"
+msgstr ""
+
+#: tfrmmain.lblcode.caption
+msgid "Code"
+msgstr ""
+
+#: tfrmmain.lblcontactus.caption
+msgid "Contact Us"
+msgstr ""
+
+#: tfrmmain.lbldescription.caption
+msgid "Welcome to Waha Linux, thank you for joining our community. Waha Linux is a Debian-based Linux distribution which provides ready to use, out of the box operating system, it's suitable for people who are new to Linux."
+msgstr ""
+
+#: tfrmmain.lbldonate.caption
+msgid "Donate"
+msgstr ""
+
+#: tfrmmain.lblforums.caption
+msgid "Forums"
+msgstr ""
+
+#: tfrmmain.lbltitle.caption
+msgid "Waha Linux"
+msgstr ""
+
+#: tfrmmain.lbluserguide.caption
+msgid "User Guide"
+msgstr ""
+

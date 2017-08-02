@@ -1,0 +1,13 @@
+{"version":1,"strings":[
+{"hash":184637592,"name":"tfrmmain.caption","sourcebytes":[87,101,108,99,111,109,101,32,116,111,32,87,97,104,97,32,76,105,110,117,120],"value":"Welcome to Waha Linux"},
+{"hash":56046120,"name":"tfrmmain.lbltitle.caption","sourcebytes":[87,97,104,97,32,76,105,110,117,120],"value":"Waha Linux"},
+{"hash":47101870,"name":"tfrmmain.lbldescription.caption","sourcebytes":[87,101,108,99,111,109,101,32,116,111,32,87,97,104,97,32,76,105,110,117,120,44,32,116,104,97,110,107,32,121,111,117,32,102,111,114,32,106,111,105,110,105,110,103,32,111,117,114,32,99,111,109,109,117,110,105,116,121,46,32,87,97,104,97,32,76,105,110,117,120,32,105,115,32,97,32,68,101,98,105,97,110,45,98,97,115,101,100,32,76,105,110,117,120,32,100,105,115,116,114,105,98,117,116,105,111,110,32,119,104,105,99,104,32,112,114,111,118,105,100,101,115,32,114,101,97,100,121,32,116,111,32,117,115,101,44,32,111,117,116,32,111,102,32,116,104,101,32,98,111,120,32,111,112,101,114,97,116,105,110,103,32,115,121,115,116,101,109,44,32,105,116,39,115,32,115,117,105,116,97,98,108,101,32,102,111,114,32,112,101,111,112,108,101,32,119,104,111,32,97,114,101,32,110,101,119,32,116,111,32,76,105,110,117,120,46],"value":"Welcome to Waha Linux, thank you for joining our community. Waha Linux is a Debian-based Linux distribution which provides ready to use, out of the box operating system, it's suitable for people who are new to Linux."},
+{"hash":176079763,"name":"tfrmmain.lblcontactus.caption","sourcebytes":[67,111,110,116,97,99,116,32,85,115],"value":"Contact Us"},
+{"hash":72054373,"name":"tfrmmain.lbluserguide.caption","sourcebytes":[85,115,101,114,32,71,117,105,100,101],"value":"User Guide"},
+{"hash":81173571,"name":"tfrmmain.lblforums.caption","sourcebytes":[70,111,114,117,109,115],"value":"Forums"},
+{"hash":141024701,"name":"tfrmmain.lblchatroom.caption","sourcebytes":[67,104,97,116,32,114,111,111,109],"value":"Chat room"},
+{"hash":304549,"name":"tfrmmain.lblcode.caption","sourcebytes":[67,111,100,101],"value":"Code"},
+{"hash":79055013,"name":"tfrmmain.lbldonate.caption","sourcebytes":[68,111,110,97,116,101],"value":"Donate"},
+{"hash":205488704,"name":"tfrmmain.cbshowonstartup.caption","sourcebytes":[83,104,111,119,32,111,110,32,115,116,97,114,116,117,112],"value":"Show on startup"},
+{"hash":44709525,"name":"tfrmmain.btnclose.caption","sourcebytes":[38,67,108,111,115,101],"value":"&Close"}
+]}

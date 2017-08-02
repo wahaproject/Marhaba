@@ -10,7 +10,7 @@ object frmMain: TfrmMain
   OnShow = FormShow
   ParentBiDiMode = False
   Position = poScreenCenter
-  LCLVersion = '1.6.2.0'
+  LCLVersion = '1.8.0.3'
   object imgTile: TImage
     Left = 0
     Height = 512
@@ -1226,7 +1226,7 @@ object frmMain: TfrmMain
     AnchorSideRight.Control = Owner
     AnchorSideRight.Side = asrBottom
     Left = 224
-    Height = 63
+    Height = 60
     Top = 96
     Width = 640
     Anchors = [akTop, akLeft, akRight]
@@ -1785,10 +1785,10 @@ object frmMain: TfrmMain
       TabOrder = 0
     end
     object lblContactUs: TLabel
-      Left = 152
-      Height = 21
+      Left = 154
+      Height = 20
       Top = 138
-      Width = 73
+      Width = 70
       Alignment = taCenter
       BorderSpacing.CellAlignHorizontal = ccaCenter
       Caption = 'Contact Us'
@@ -1797,7 +1797,7 @@ object frmMain: TfrmMain
     object btnUserGuide: TBitBtn
       Left = 151
       Height = 76
-      Top = 190
+      Top = 189
       Width = 76
       BorderSpacing.CellAlignHorizontal = ccaCenter
       Constraints.MaxHeight = 76
@@ -2323,8 +2323,8 @@ object frmMain: TfrmMain
     end
     object lblUserGuide: TLabel
       Left = 153
-      Height = 21
-      Top = 297
+      Height = 20
+      Top = 296
       Width = 71
       Alignment = taCenter
       BorderSpacing.CellAlignHorizontal = ccaCenter
@@ -2860,7 +2860,7 @@ object frmMain: TfrmMain
     end
     object lblForums: TLabel
       Left = 392
-      Height = 21
+      Height = 20
       Top = 138
       Width = 48
       Alignment = taCenter
@@ -2871,7 +2871,7 @@ object frmMain: TfrmMain
     object btnChatRoom: TBitBtn
       Left = 378
       Height = 76
-      Top = 190
+      Top = 189
       Width = 76
       BorderSpacing.CellAlignHorizontal = ccaCenter
       Constraints.MaxHeight = 76
@@ -3396,10 +3396,10 @@ object frmMain: TfrmMain
       TabOrder = 3
     end
     object lblChatRoom: TLabel
-      Left = 382
-      Height = 21
-      Top = 297
-      Width = 68
+      Left = 383
+      Height = 20
+      Top = 296
+      Width = 66
       Alignment = taCenter
       BorderSpacing.CellAlignHorizontal = ccaCenter
       Caption = 'Chat room'
@@ -3935,9 +3935,9 @@ object frmMain: TfrmMain
     end
     object lblCode: TLabel
       Left = 626
-      Height = 21
+      Height = 20
       Top = 138
-      Width = 34
+      Width = 33
       Alignment = taCenter
       BorderSpacing.CellAlignHorizontal = ccaCenter
       Caption = 'Code'
@@ -3946,7 +3946,7 @@ object frmMain: TfrmMain
     object btnDonate: TBitBtn
       Left = 605
       Height = 76
-      Top = 190
+      Top = 189
       Width = 76
       BorderSpacing.CellAlignHorizontal = ccaCenter
       Constraints.MaxHeight = 76
@@ -4471,10 +4471,10 @@ object frmMain: TfrmMain
       TabOrder = 5
     end
     object lblDonate: TLabel
-      Left = 619
-      Height = 21
-      Top = 297
-      Width = 47
+      Left = 620
+      Height = 20
+      Top = 296
+      Width = 46
       Alignment = taCenter
       BorderSpacing.CellAlignHorizontal = ccaCenter
       Caption = 'Donate'
@@ -4630,10 +4630,10 @@ object frmMain: TfrmMain
     AnchorSideRight.Control = btnClose
     AnchorSideBottom.Control = Owner
     AnchorSideBottom.Side = asrBottom
-    Left = 602
+    Left = 605
     Height = 32
     Top = 560
-    Width = 134
+    Width = 131
     Anchors = [akRight, akBottom]
     BorderSpacing.Right = 32
     BorderSpacing.Bottom = 16

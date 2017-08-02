@@ -86,8 +86,8 @@ begin
     FlipForm(Self);
     doFlipChildren;
     FlipPanelChilds(PanelContent);
-    Self.Font.Name := 'Droid Sans Arabic';
-    lblTitle.Font.Name := 'Droid Sans Arabic';
+    Self.Font.Name := 'Noto Kufi Arabic';
+    lblTitle.Font.Name := 'Noto Kufi Arabic';
   end;
 
 end;
